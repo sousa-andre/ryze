@@ -18,7 +18,8 @@ setup(
     packages=['ryze'],
     install_requires=[
         'requests',
-        'beautifulsoup4'
+        'beautifulsoup4',
+        'lxml'
     ],
     project_urls={
         'Source': 'https://github.com/sousa-andre/ryze'
